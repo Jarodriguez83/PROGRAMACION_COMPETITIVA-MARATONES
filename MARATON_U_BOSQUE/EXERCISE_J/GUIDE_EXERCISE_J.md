@@ -37,4 +37,4 @@ Para cada caso imprime:
 
 **OUTPUT:**
 - Case 1: ODD
-- Case 22: EVEN
+- Case 2: EVEN
