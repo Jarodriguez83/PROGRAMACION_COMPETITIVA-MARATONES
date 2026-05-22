@@ -1,0 +1,12 @@
+FLUJO MÁXIMO 
+GRAFO DIRIGIDO G=(V,E) CON CAPACIDADES C(U, V) >= 0  
+DOS VÉRTICES ESPECIALES: FUENTE (S) Y SUMIDERO (T)
+FLUJO F(U,V) 
+CONSERVACIÓN DE FLUJO 
+VALOR DE FLUJO 
+
+# EJEMPLO  
+En una carretera es el máximo número de autos por hora que puede circular sin que colapse (atasco total)
+
+TENER EN CUENTA LA LIBRERIA PARA FLUJOS: networkx
+ARISTA -> (FUENTE, SUMIDERO, CAPACIDAD)
