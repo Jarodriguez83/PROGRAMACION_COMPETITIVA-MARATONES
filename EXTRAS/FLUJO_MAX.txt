@@ -10,3 +10,9 @@ En una carretera es el máximo número de autos por hora que puede circular sin 
 
 TENER EN CUENTA LA LIBRERIA PARA FLUJOS: networkx
 ARISTA -> (FUENTE, SUMIDERO, CAPACIDAD)
+
+
+
+PROBLEMAS DE NP HARD  
+HEURISTICAS
+METAHEURISTICAS 
